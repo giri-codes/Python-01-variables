@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Giri | Python Developer in Progress
 
-This repository contains my **daily Python practice** as I follow my 30-Day Python Developer Roadmap.
+This repository contains my **daily Python practice** as I follow my Python Developer Roadmap.
 
 ## 📘 What I’m Learning
 - Variables & Data Types  
