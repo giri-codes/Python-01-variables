@@ -3,8 +3,8 @@
 This folder contains practice examples of Python operators.
 
 Topics will be added step by step as I practice and learn:
-- Assignment Operators
 - Arithmetic Operators
+- Assignment Operators
 - Comparison Operators
 - Logical Operators
 - Identity Operators
